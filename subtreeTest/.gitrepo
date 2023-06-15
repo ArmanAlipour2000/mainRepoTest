@@ -7,6 +7,6 @@
 	remote = https://github.com/ArmanAlipour2000/subtreeTest.git
 	branch = main
 	commit = 9ec719cab76b3ca128b9f591e36a819263444d34
-	parent = 89450400d5bc97bd2c5da37cc055c574902948f2
+	parent = e1248275826b54f93e36b3b49c63587003a517ef
 	method = merge
 	cmdver = 0.4.6
